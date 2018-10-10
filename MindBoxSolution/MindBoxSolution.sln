@@ -10,6 +10,9 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindBoxUnitTest", "MindBoxUnitTest\MindBoxUnitTest.csproj", "{35FCD86D-5988-47F7-AB0D-E809151391F8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentation", "{8105BC21-6020-4003-B41D-E87B7C85BA56}"
+	ProjectSection(SolutionItems) = preProject
+		Documentations\About.docx = Documentations\About.docx
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
